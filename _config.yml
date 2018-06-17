@@ -1,9 +1,9 @@
 # site
-title: Louie
+title: Russel Neiss
 baseurl: "/"
-url: "http://www.russelneiss.com"
+url: "http://rneiss.github.io"
 favicon: "/assets/sample/ico.png"
-g_analytics: UA-12345678-1
+#g_analytics:
 
 # bio
 header: Russel Neiss
