@@ -10,7 +10,7 @@ category: Twitterbot
 
 <http://www.twitter.com/realPressSecBot>
 
-![A screenshot of @realPressSecBot in its natural environment]({{ site.url }}/assets/images/realPressSecBot.png){:class="img-responsive"}
+![A screenshot of @realPressSecBot in its natural environment]({{ site.url }}/assets/images/realPressSecBot.jpg){:class="img-responsive"}
 
 **Selected Press**
 
