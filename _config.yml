@@ -1,0 +1,27 @@
+# site
+title: Louie
+baseurl: "/"
+url: "http://www.russelneiss.com"
+favicon: "/assets/sample/ico.png"
+g_analytics: UA-12345678-1
+
+# bio
+header: Russel Neiss
+desc: >
+  I build creative digital experiences, (usually with a Jewish flavor).
+
+# posts
+date_format: "%Y"
+post_title: Project Name
+post_date: Year
+post_cat: Genre
+
+# post detail
+prev-next: true
+
+# build settings
+markdown: kramdown
+# theme: louie
+exclude:
+  - Gemfile
+  - Gemfile.lock
