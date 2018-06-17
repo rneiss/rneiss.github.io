@@ -12,6 +12,7 @@ Realizing that many have no idea where this arbitrary line actually is and what 
 
 These images were stitched together using a single command in my computer's terminal window, and put to music. 
 
-A copy can be found on Youtube:
-[![Video thumbnail of Green Line video](https://img.youtube.com/vi/7qwT7OKGckM/0.jpg)](https://www.youtube.com/watch?v=7qwT7OKGckM)
+A copy can be found on [Youtube](https://www.youtube.com/watch?v=7qwT7OKGckM):
+
+[![Video thumbnail of Green Line video]({{ site.url }}/assets/images/green-line-play.jpg](https://www.youtube.com/watch?v=7qwT7OKGckM)
 
