@@ -14,5 +14,5 @@ These images were stitched together using a single command in my computer's term
 
 A copy can be found on [Youtube](https://www.youtube.com/watch?v=7qwT7OKGckM):
 
-[![Video thumbnail of Green Line video]({{ site.url }}/assets/images/green-line-play.jpg](https://www.youtube.com/watch?v=7qwT7OKGckM)
+[![Video thumbnail of Green Line video]({{ site.url }}/assets/images/green-line-play.jpg)](https://www.youtube.com/watch?v=7qwT7OKGckM)
 
